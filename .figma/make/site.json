@@ -1,0 +1,10 @@
+{
+  "description": "Provides cybersecurity professionals with a premium, dark-themed dashboard to monitor threats and system status using advanced visual analytics.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

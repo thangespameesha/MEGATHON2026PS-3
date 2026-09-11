@@ -1,0 +1,5 @@
+fastapi
+pydantic
+nh3
+markdown-it-py
+pytest

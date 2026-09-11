@@ -1,0 +1,9 @@
+﻿Acme Corp Remote Work Policy
+
+1. Overview
+All full-time employees are eligible for flexible remote work arrangements.
+Core collaboration hours are between 10:00 AM and 3:00 PM local time.
+
+2. Equipment and Security
+Employees must use company-issued laptops with full-disk encryption enabled.
+Never share internal company documents on public forums or personal email accounts.

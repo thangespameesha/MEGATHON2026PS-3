@@ -1,0 +1,6 @@
+LUMO3 Employee Security Policy
+
+All employees must use multi-factor authentication.
+Passwords must be changed regularly.
+Employees must report suspicious emails to the security team.
+Remote access must use the company's approved secure connection.
