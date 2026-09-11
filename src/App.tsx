@@ -14,7 +14,7 @@ export default function App() {
     return (
       <MainHeadPortal
         onSwitch={() => setRole("select")}
-        onRoleSelect={(r) => setRole(r)}
+        onRoleSelect={(r: Role) => setRole(r)}
       />
     );
   }

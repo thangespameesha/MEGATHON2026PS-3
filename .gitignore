@@ -19,3 +19,9 @@ logs/
 # beside it.
 /.plugins/
 /.opencode-skills/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
